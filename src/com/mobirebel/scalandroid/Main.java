@@ -2,7 +2,6 @@ package com.mobirebel.scalandroid;
 
 import android.app.Activity;
 import android.os.Bundle;
-import com.mobi.rebel.ScalaAndroid.R;
 
 public class Main extends Activity {
     /**
